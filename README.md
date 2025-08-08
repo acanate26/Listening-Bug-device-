@@ -18,3 +18,6 @@ This is simple, beginner-like audio code.
    - Captures waveform data via `getByteTimeDomainData`
    - Calculates the RMS (Root Mean Square) of the audio signal
    - Triggers an alert message if the volume exceeds a threshold
+
+
+![microphone](https://github.com/user-attachments/assets/268a4cf2-08d3-433d-ba9a-8ac3f7239186)
