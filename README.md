@@ -1,7 +1,6 @@
 # 🎤 Sound Activity Detector 
 
 A simple web app that uses your device's microphone to detect unusual sound activity in real-time — built with HTML, CSS, and vanilla JavaScript.  
-This is simple, beginner-like audio code.
 
 ## 🚀 Features
 - 🎧 **Live microphone monitoring** using `navigator.mediaDevices.getUserMedia`
